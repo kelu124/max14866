@@ -8,6 +8,7 @@ Breakout of max14866
 
 See [LICENSE.txt](LICENSE.txt)
 
+```
  ------------------------------------------------------------------------------
 | SPDX-FileCopyrightText: 2020 Luc Jonveaux <kelu124@gmail.com>                |
 | SPDX-License-Identifier: CERN-OHL-S-2.0                                      |
@@ -28,5 +29,6 @@ See [LICENSE.txt](LICENSE.txt)
 | on the external case of the Gizmo or other products you make using this      |
 | source.                                                                      |
  ------------------------------------------------------------------------------
+```
 
 [More details in cern_ohl_s_v2](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2)
