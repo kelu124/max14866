@@ -9,7 +9,7 @@ Breakout of max14866
 
 ![](/images/20210323_210151.jpg)
 
-![](/images/20210323_210219.jpg)
+![](/images/20210323_210205.jpg)
 
 
 # License
