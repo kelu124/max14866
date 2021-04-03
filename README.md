@@ -11,6 +11,13 @@ Breakout of max14866
 
 ![](/images/20210323_210205.jpg)
 
+# Used with the pulse-echo board
+
+![](/images/20210329_122144.jpg)
+
+# OSHWA certified ! 
+
+[https://certification.oshwa.org/fr000014.html](https://certification.oshwa.org/fr000014.html)
 
 # License
 
