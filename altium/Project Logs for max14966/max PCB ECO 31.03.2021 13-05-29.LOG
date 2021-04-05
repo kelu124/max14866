@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=NetC2_1 Pin=R1-1
+Removed Pin From Net: NetName=+5V Pin=R1-2
+Removed Member From Class: ClassName=max14866 Member=R2
+Change Component Footprint: Designator=K1 Old Footprint=AMPHENOL_MALE New Footprint=AMPHENOL_MALE _FEMALE
+Change Component Footprint: Designator=K2 Old Footprint=AMPHENOL_MALE New Footprint=AMPHENOL_MALE _FEMALE
+Change Component Comment : Designator=K1 Old Comment=SMA_MALE_with_NUT New Comment=SMA_MALE_FEMALE
+Change Component Comment : Designator=K2 Old Comment=SMA_MALE_with_NUT New Comment=SMA_MALE_FEMALE
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change component parameters: Designator = "C2" ("C2"); Footprint = "SM0805"; UniqueID = "\NWMAUAMR" ("\NWMAUAMR")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Added Component: Designator=C3(SM0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT-23)
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+5V Pin=C3-2
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=NetC2_1 Pin=U?-2
+Added Pin To Net: NetName=+5V Pin=U?-3
+Added Member To Class: ClassName=max14866 Member=Component C3 cap0805
+Added Member To Class: ClassName=max14866 Member=Component U? XC6206

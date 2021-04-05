@@ -10,9 +10,17 @@ Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\o
 
 Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\attrlist
 
+Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\bottom_paste\attrlist
+
 Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\bottom_overlay\features
 
 Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\bottom_solder\attrlist
 
 Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\keep-out_layer\features
 
@@ -22,13 +30,13 @@ Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\o
 
 Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\mechanical_1\attrlist
 
-Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\mechanical_13\features
-
-Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\mechanical_13\attrlist
-
 Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\mechanical_8\features
 
 Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\mechanical_8\attrlist
+
+Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\mechanical_13\features
+
+Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\mechanical_13\attrlist
 
 Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\mechanical_15\features
 
@@ -38,25 +46,9 @@ Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\o
 
 Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\mechanical_14\attrlist
 
-Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\top_overlay\features
-
-Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\top_overlay\attrlist
-
-Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\bottom_paste\features
-
-Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\bottom_paste\attrlist
-
-Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\bottom_solder\features
-
-Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\bottom_solder\attrlist
-
 Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\bottom_layer\features
 
 Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\bottom_layer\attrlist
-
-Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\top_layer\features
-
-Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\top_layer\attrlist
 
 Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\top_paste\features
 
@@ -65,6 +57,14 @@ Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\o
 Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\top_solder\features
 
 Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\top_layer\features
+
+Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\top_layer\attrlist
 
 Generated File : E:\my_work\Luc\max14866\max14966\Project Outputs for max14966\odb\steps\pcb\layers\drill\features
 
