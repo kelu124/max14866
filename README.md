@@ -16,7 +16,7 @@ Breakout of max14866
 
 ## Testing it on a phantom 
 
-### Setup. Inclusion at 2-3cm depth.
+### Setup. Inclusion at 15-30mm depth.
 
 ![](/expe/20210425_203655.jpg)
 
