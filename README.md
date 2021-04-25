@@ -13,7 +13,27 @@ Breakout of max14866
 
 # Used with the pulse-echo board
 
-![](/images/20210329_122144.jpg)
+
+## Testing it on a phantom 
+
+### Setup. Inclusion at 2-3cm depth.
+
+![](/expe/20210425_203655.jpg)
+
+### Images for 25 pairs of piezos (5 piezos, 1TX/1RX each time)
+
+![](/expe/raw_sigs.jpg)
+
+### Filtered
+
+![](/expe/filtered_sigs.jpg)
+
+![](/expe/summed_filtered_sigs.jpg)
+
+### Details of the bottom of the phantom at 50mm
+
+![](/expe/summed_filtered_sigs_details.jpg)
+
 
 # OSHWA certified ! 
 
