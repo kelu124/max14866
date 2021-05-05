@@ -11,7 +11,7 @@
 
 # max14866
 
-Breakout of max14866
+Breakout of max14866 
 
 ![](top.png)
 
